@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @harshithgowdakt
-- 👀 I’m interested in building scalable, reliable, easy to maintain software
-- 🌱 I’m currently learning java, go
-- 📫 Reachout to me on email harshithgowdakt@gmail.com
+![github stats](https://github-readme-stats.vercel.app/api?username=harshithgowdakt&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithgowdakt&layout=compact&theme=dark)](https://github.com/harshithgowdakt)
 
-<!---
-harshithgowdakt/harshithgowdakt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=node-user-service&theme=dark)](https://github.com/harshithgowdakt/node-user-service) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=JavaScriptBasics&theme=dark)](https://github.com/harshithgowdakt/JavaScriptBasics) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=nwjs-example&theme=dark)](https://github.com/harshithgowdakt/nwjs-example) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=kafka-nodejs&theme=dark)](https://github.com/harshithgowdakt/kafka-nodejs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=node-mongodb-pagination&theme=dark)](https://github.com/harshithgowdakt/node-mongodb-pagination)
