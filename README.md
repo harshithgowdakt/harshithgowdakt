@@ -1,3 +1,56 @@
+## 👋 Hi there, I’m Harshith
+
+I’m a high-agency engineer who builds scalable, fault-tolerant systems with no tech debt. I specialize in modern web architectures, distributed systems, and developer productivity.  
+🔗 [Medium Blogs](https://medium.com/@harshithgowdakt)| 🛠️ [GitHub](https://github.com/harshithgowdakt/kafka-consumer) | ✍️ [LinkedIn](linkedin.com/in/harshith-gowda-953275164)
+
+---
+
+## 🚀 My Strengths
+
+### 🧠 Deep System Design & Architecture  
+• Architected ingestion pipelines processing 10M+ events/day using Kafka + ClickHouse with millisecond query performance  
+• Designed systems for horizontal scalability, fault tolerance, and high throughput across distributed services  
+• Led seamless migration from PostgreSQL to ClickHouse in under 3 days to overcome performance bottlenecks, with zero downtime  
+
+### 🛠️ Hands-On Engineering & Tooling Mastery  
+• Proficient in Node.js, Golang, TypeORM, Docker, Kubernetes, GitLab CI, WinAppDriver, and .NET (WPF)  
+• Automated schema migrations using TypeORM, removing human errors and manual toil  
+• Created robust GitLab pipelines for testing, SonarQube analysis, containerization, and production deployment  
+• Built a Windows auto-updater + installer, integrated PowerShell, and streamlined release management  
+
+### ⚙️ Developer Productivity & Process Improvement  
+• Introduced Git branching strategy, automated PR checklist, and SonarQube coverage reports org-wide  
+• Standardized event schema across microservices for analytics without needing PM directives  
+• Championed usage of tags and branch naming conventions to drive automated CI/CD workflows  
+
+### 🔍 Debugging, Troubleshooting & Performance Optimization  
+• Investigated and resolved Kafka authentication issues by implementing SASL/SCRAM securely  
+• Tuned Aurora/Postgres with partitioning before leading a high-performance transition to ClickHouse  
+• Built dashboards, alerts, and monitoring using New Relic for real-time observability and issue triage  
+
+### 🧑‍🤝‍🧑 Mentorship & Team Leadership  
+• Mentored interns and junior engineers who became core contributors  
+• Reviewed critical designs, offered architectural improvements, and led with a culture of ownership and high standards  
+• Frequently supported teammates during roadblocks — whether in backend, desktop automation, or cloud tooling  
+
+### 🧪 Automation & Testing  
+• Developed automation suite for desktop apps using WinAppDriver + Page Object Model  
+• Created self-healing, resilient test cases for hybrid (WPF + Web) applications  
+• Leveraged AI tools to auto-generate test cases, documentation, and boost engineering velocity  
+
+### 📚 Curiosity & Learning Mindset  
+• From C++ in college to building backend, cloud, desktop, and browser-extension apps — I’ve self-learned across the full stack  
+• Built features using React, GWT, NW.js, Chrome Extensions, and Kafka/ClickHouse analytics  
+• Applied knowledge of computer networks to resolve deep platform issues (e.g., Windows updater whitelisting)  
+
+---
+
+## 🔎 What I Value  
+✅ Ownership over tasks — I solve problems before they reach the manager  
+✅ Building robust systems — not just working features  
+✅ Collaboration, not silos — I work with Windows, DevOps, and backend teams alike  
+✅ High quality and low maintenance — I don’t ship tech debt  
+
 ## 🧠 Out-of-the-Box Thinking | Real-World Engineering Wins
 
 Here are some real examples where I challenged the status quo, identified root problems, and implemented solutions that saved time, reduced errors, and improved developer and customer experience at scale.
