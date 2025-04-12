@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Harshith
 
 I’m a high-agency engineer who builds scalable, fault-tolerant systems with no tech debt. I specialize in modern web architectures, distributed systems, and developer productivity.  
-🔗 [Medium Blogs](https://medium.com/@harshithgowdakt)| 🛠️ [GitHub](https://github.com/harshithgowdakt/kafka-consumer) | ✍️ [LinkedIn](linkedin.com/in/harshith-gowda-953275164)
+🔗 [Medium Blogs](https://medium.com/@harshithgowdakt) | 🛠️ [GitHub](https://github.com/harshithgowdakt/kafka-consumer) | ✍️ [LinkedIn](linkedin.com/in/harshith-gowda-953275164)
 
 ---
 
