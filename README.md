@@ -1,5 +1,3 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=harshithgowdakt&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithgowdakt&layout=compact&theme=dark)](https://github.com/harshithgowdakt)
-
 ## 🧠 Out-of-the-Box Thinking | Real-World Engineering Wins
 
 Here are some real examples where I challenged the status quo, identified root problems, and implemented solutions that saved time, reduced errors, and improved developer and customer experience at scale.
@@ -32,8 +30,8 @@ Here are some real examples where I challenged the status quo, identified root p
   → Reduced size by **64%**, improved install speed, and cut Azure CDN costs.
 
 - **🛡️ Default Install Pathing (90% Fewer Permission Errors)**  
-  Eliminated "choose folder" option and defaulted to `localAppData`.  
-  → Drastically reduced install failures due to permission issues.
+  Eliminated the "choose folder" option and defaulted to `localAppData`.  
+  → Drastically reduced installation failures due to permission issues.
 
 ---
 
@@ -73,10 +71,11 @@ Here are some real examples where I challenged the status quo, identified root p
 
 > 💡 These initiatives weren’t just improvements — they were transformations that changed how teams build, ship, and support products.
 
+![github stats](https://github-readme-stats.vercel.app/api?username=harshithgowdakt&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithgowdakt&layout=compact&theme=dark)](https://github.com/harshithgowdakt)
 
 ### repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=node-user-service&theme=dark)](https://github.com/harshithgowdakt/node-user-service) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=kafka-consumer&theme=dark)](https://github.com/harshithgowdakt/kafka-consumer) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=node-user-service&theme=dark)](https://github.com/harshithgowdakt/node-user-service) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=nwjs-example&theme=dark)](https://github.com/harshithgowdakt/nwjs-example)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=kafka-nodejs&theme=dark)](https://github.com/harshithgowdakt/kafka-nodejs) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=node-mongodb-pagination&theme=dark)](https://github.com/harshithgowdakt/node-mongodb-pagination)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=kafka-nodejs&theme=dark)](https://github.com/harshithgowdakt/kafka-nodejs) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshithgowdakt&repo=node-mongodb-pagination&theme=dark)](https://github.com/harshithgowdakt/node-mongodb-pagination)
