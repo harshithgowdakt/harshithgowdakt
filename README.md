@@ -10,19 +10,16 @@ Built a unified audit-logging service enabling 100% traceability across all back
 Developed reusable platform libraries (Kafka client, shared modules) adopted across services
 Contributed to billing, subscription, and entitlement services powering monetization
 
-Leadership & Execution
-
+** Leadership & Execution **
 Led a team of 4 engineers — owned sprint planning, delivery accountability, and the platform roadmap
 Partnered with Product, DevOps, UX, and Principal Architect on architecture decisions and customer-facing priorities
 Mentored engineers through design reviews and onboarding, improving team autonomy and velocity
 
-DevOps, Infra & Reliability
-
+** DevOps, Infra & Reliability **
 Partnered with DevOps on AWS infrastructure (EKS, MSK, Aurora, Redis, S3, CloudFront) — ~30% infra cost reduction
 Built fully automated GitLab CI/CD pipelines with Helm charts — bi-weekly → daily deployments, zero downtime
 Implemented observability (New Relic, structured logging, CloudWatch) — MTTR from ~4 hrs → <40 min
 
-Engineering Quality
-
+** Engineering Quality **
 Rolled out SonarQube, CodeAnt, GitFlow, and PR governance across 20+ repos — post-merge defects down ~45%
 Authored architecture docs, runbooks, and onboarding playbooks — ramp-up time from 3 weeks → <2 days
