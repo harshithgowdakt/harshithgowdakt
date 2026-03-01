@@ -4,12 +4,8 @@ Backend & Platform Engineer (6+ years) building and scaling distributed systems 
 
 I design backend platforms that stay reliable, observable, and cost-efficient under real production traffic.
 
----
-
 ### Tech Stack
 Go · Kubernetes · ClickHouse · PostgreSQL · Kafka · AWS · Redis · CI/CD · Distributed Systems
-
----
 
 ### Impact
 
@@ -19,7 +15,5 @@ Go · Kubernetes · ClickHouse · PostgreSQL · Kafka · AWS · Redis · CI/CD �
 - Reduced MTTR from ~4 hours to <30 minutes with full-stack observability across 15+ microservices
 - Improved release management from bi-weekly to daily zero-downtime deployments, reducing post-merge defects by ~45%
 - Reduced developer onboarding time from 3 weeks to <2 days
-
----
 
 I care about system design, performance, reliability, and engineering quality — not just shipping features.
