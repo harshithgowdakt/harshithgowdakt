@@ -1,19 +1,20 @@
 ## Hi, I’m Harshith
 
-I am a Backend & Platform Engineer with ~7 years of experience building and scaling distributed systems and backend platforms at product-led startups.
 
-I have built systems that are reliable, observable, performant, and cost-efficient under real production traffic. My core stack includes Distributed Systems, Go, Kubernetes, Kafka, ClickHouse, PostgreSQL, Redis, AWS, and CI/CD.
-
-What differentiates me is my deep interest in distributed systems internals. Beyond production experience, I have studied research papers such as Kafka, DynamoDB, Raft, and Google Spanner, and published my learnings on Medium. To better understand system design tradeoffs, I also built simplified working versions of Kafka, ClickHouse, and etcd, which are available on GitHub.
-
-## Some of my key contributions include:
-- Scaled a platform from 10K to 250K users while improving uptime from ~90% to 99.9%
-- ollaborated closely with the Chief Architect to design and build scalable backend infrastructure and core platform services, including authentication, billing, reporting, and metering systems
-- Led a team of 4 engineers to rebuild the reporting platform using Go, Kafka, ClickHouse, and React, reducing query times from ~30s to under 1s
-- Reduced infrastructure costs by ~$9K/month through schema optimization and AWS environment consolidation
-- Reduced MTTR from ~4 hours to under 30 minutes by implementing full-stack observability across 15+ microservices
-- Improved release engineering from bi-weekly deployments to daily zero-downtime releases while reducing post-merge defects by ~45%
-- Self-hosted and operated the Ory identity stack on AWS EKS
-- Reduced developer onboarding time from 3 weeks to less than 2 days
-
-I care deeply about system design, performance, reliability, and engineering quality — not just shipping features.
+Backend & Platform Engineer with 7+ years of experience building and scaling distributed systems at product-led startups.
+ 
+I currently work on the backend platform powering all Sanas products — designed and built billing, subscriptions, usage metering, feature entitlement, reporting, and payment gateway integration, and also accountable for availability, reliability, security, latency, and cost across 10+ microservices serving 300K users.
+ 
+My core stack includes Go, Kubernetes, Kafka, ClickHouse, PostgreSQL, Redis, and AWS.
+ 
+I'm especially interested in the internals of distributed systems and system design trade-offs. Alongside production work, I've studied foundational systems such as Kafka, Dynamo, Raft, and Google Spanner; published technical write-ups on Medium; and built simplified implementations of Kafka, ClickHouse, and etcd, available on GitHub.
+ 
+## Selected impact:
+ * Raised platform availability from ~90% to 99.9% while scaling from 10K to 300K users — owned the reliability roadmap: architecture reviews, failure-mode analysis, and capacity planning across all services
+* Owned the revenue-path backend platform used by all Sanas products: billing, subscriptions, usage metering, feature entitlement, reporting, and payment gateway integration
+* Designed and operated the company-wide identity platform (self-hosted Ory), providing authentication and authorization for every Sanas product
+* Cut MTTR from ~4 hours to under 30 minutes by building full-stack observability across the backend platform (New Relic + CloudWatch) and establishing the alerting and on-call practices around it
+* Designed and operated self-hosted observability infrastructure (Sentry + Grafana) for desktop app monitoring and error tracking
+* Reduced infrastructure costs by ~$20K/month by consolidating AWS environments, eliminating a duplicate Azure dependency, and optimizing ClickHouse
+* Led a team of four engineers to rebuild the reporting platform on Go, Kafka, ClickHouse, and React
+* Moved release engineering from biweekly deployments to daily, zero-downtime releases; cut developer onboarding from three weeks to one day
